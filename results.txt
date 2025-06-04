@@ -1,30 +1,25 @@
-Sequence: ATGCGTACG
-Length: 9 nt
-GC Content: 55.56%
-Valid DNA Sequence?: True
-Reverse Complement: CGTACGCAT
-Sequence: ATCGTACG
-Length: 8 nt
-GC Content: 50.00%
-Valid DNA Sequence?: True
-Reverse Complement: CGTACGAT
-Sequence: ATGCGTACGTAGC
-Length: 13 nt
-GC Content: 53.85%
-Valid DNA Sequence?: True
-Reverse Complement: GCTACGTACGCAT
-Sequence: ATCGTACGTAGC
-Length: 12 nt
-GC Content: 50.00%
-Valid DNA Sequence?: True
-Reverse Complement: GCTACGTACGAT
-Sequence: ATGCGTACGTAGCTAGC
-Length: 17 nt
-GC Content: 52.94%
-Valid DNA Sequence?: True
-Reverse Complement: GCTAGCTACGTACGCAT
-Sequence: dinosaurs are cool
-Length: 18 nt
-GC Content: 50.00%
-Valid DNA Sequence?: False
-Reverse Complement: loog eyt syatsonih
+Sequence 1: ATGCGTACCTGA
+  Length: 12
+  GC Content: 50.00%
+  Valid: Yes
+----------------------------------------
+Sequence 2: TACGGTAGCTAA
+  Length: 12
+  GC Content: 41.67%
+  Valid: Yes
+----------------------------------------
+Sequence 3: GGCTAACCGTTA
+  Length: 12
+  GC Content: 50.00%
+  Valid: Yes
+----------------------------------------
+Sequence 4: CCTGAGGCTTAC
+  Length: 12
+  GC Content: 58.33%
+  Valid: Yes
+----------------------------------------
+Sequence 5: AATCGGTANCXT
+  Length: 12
+  GC Content: 33.33%
+  Valid: No
+----------------------------------------
