@@ -1,0 +1,25 @@
+Sequence 1: ATGCGTACCTGA
+  Length: 12
+  GC Content: 50.00%
+  Valid: Yes
+----------------------------------------
+Sequence 2: TACGGTAGCTAA
+  Length: 12
+  GC Content: 41.67%
+  Valid: Yes
+----------------------------------------
+Sequence 3: GGCTAACCGTTA
+  Length: 12
+  GC Content: 50.00%
+  Valid: Yes
+----------------------------------------
+Sequence 4: CCTGAGGCTTAC
+  Length: 12
+  GC Content: 58.33%
+  Valid: Yes
+----------------------------------------
+Sequence 5: AATCGGTANCXT
+  Length: 12
+  GC Content: 33.33%
+  Valid: No
+----------------------------------------
