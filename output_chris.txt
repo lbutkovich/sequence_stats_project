@@ -1,0 +1,25 @@
+Sequence: AGTACACTGGT
+Length: 11 nt
+GC Content: 45.45%
+Valid DNA Sequence?: True
+Reverse Complement: ACCAGTGTACT
+Sequence: AGTAAACTGGT
+Length: 11 nt
+GC Content: 36.36%
+Valid DNA Sequence?: True
+Reverse Complement: ACCAGTTTACT
+Sequence: AGTACACTAAT
+Length: 11 nt
+GC Content: 27.27%
+Valid DNA Sequence?: True
+Reverse Complement: ATTAGTGTACT
+Sequence: CGTACACTGGT
+Length: 11 nt
+GC Content: 54.55%
+Valid DNA Sequence?: True
+Reverse Complement: ACCAGTGTACG
+Sequence: AGTGGGGXGGT
+Length: 11 nt
+GC Content: 63.64%
+Valid DNA Sequence?: False
+Reverse Complement: ACCXCCCCACT

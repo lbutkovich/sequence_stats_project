@@ -1,20 +1,20 @@
 from Bio.Seq import Seq
 
-seq1 = Seq("AGTACACTGGT")
-seq2 = Seq("AGTAAACTGGT")
-seq3 = Seq("AGTACACTAAT")
-seq4 = Seq("CGTACACTGGT")
-seq5 = Seq("AGTGGGGXGGT")
-seq_list = ["seq1","seq2","seq3","seq4","seq5"]
-
 def gc_content(seq):
     if len(seq) == 0:
         return 0.0  # Handle empty sequences to avoid division by zero  
     else:          
-        return ((seq.count("G") + seq.count("C")) / len(seq)) * 100
+        return ((seq.count("G") + seq.count("C")) / len(seq))
 
 def is_valid(seq):
     return all(base in "ATCG" for base in seq)
+
+seq1 = "AGTACACTGGT"
+seq2 = "AGTAAACTGGT"
+seq3 = "AGTACACTAAT"
+seq4 = "CGTACACTGGT"
+seq5 = "AGTGGGGXGGT"
+seq_list = [seq1, seq2, seq3, seq4, seq5]
 
 for seq in seq_list:
     print(f"Sequence: {seq}")
