@@ -1,4 +1,19 @@
 # analyze_sequences.py Notes
+# Lazarina Butkovich 6/5/25
+
+# Open Bootcamp Collective (OBC) HW 1: https://github.com/open-bootcamp-collective/bioinformatics-cohort-1/blob/main/01-Intro_to_coding/group_homework_1.md
+
+"""
+Setup Notes
+"""
+# Conda Notes: 
+#   - created and activated a new conda environment with Python 3.10.
+#   - Did this by using the Ctrl+Shift+P command in VS Code, then typing ">Python: Create Environment", selecting "Conda", and selecting the Python 3.10 interpreter.
+#   - Can check Python version by typing "python" or "python --version" in the terminal.
+
+# Biopython Notes 
+#   - Installed Biopython using the command "pip install biopython" in the terminal.
+
 
 from Bio.Seq import Seq
 from Bio.SeqUtils import gc_fraction
